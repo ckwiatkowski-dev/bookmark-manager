@@ -2,7 +2,7 @@
 
 ## Demo 🚀
 
-Check out the live demo of the app: [Click here to view the app on Glitch!](https://your-app-name.glitch.me)
+Check out the live demo of the app: [Click here to view the app on Glitch!](https://glitch.com/~bookmark-manager-demo)
 
 ## Project Description 📝
 
