@@ -80,8 +80,7 @@ Solution: If the app relies on environment variables (e.g., API keys), make sure
 ### 6. Building the App for Production (Optional)
 If you want to deploy your app or run it in production mode locally, you can create an optimized build by running:
 
-bash
-```
+```bash
 npm run build
 ```
 This will create a build/ folder containing a production-ready version of your app. You can then serve it using a static server, or deploy it to a platform like Netlify or Vercel.
@@ -99,7 +98,7 @@ Thank you for exploring my project! This app is part of my portfolio and showcas
 If you have any questions, feedback, or suggestions, feel free to reach out.
 
 # Contact 📬
-```
+```bash
 Email: cyprkwiat@gmail.com
 ```
 # About this Project 🖥️
@@ -108,7 +107,7 @@ Whether you're managing links for work, study, or personal projects, this app pr
 It’s built using modern web technologies, ensuring that it’s both fast and scalable.
 
 # Future Improvements 🚀
-```
+```bash
 - Add the ability to categorize bookmarks.
 - Implement a search feature to quickly find a bookmark.
 - Add drag-and-drop functionality for organizing bookmarks.
