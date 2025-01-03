@@ -29,7 +29,8 @@ To run the **Bookmark Manager App** on your local machine, follow these steps:
 
 ### 1. Clone the Repository
 
-First, you need to clone the project repository to your local computer. Open your terminal (Command Prompt, PowerShell, or a terminal of your choice) and run the following command:
+First, you need to clone the project repository to your local computer.
+Open your terminal (Command Prompt, PowerShell, or a terminal of your choice) and run the following command:
 
 ```bash
 git clone https://github.com/your-username/your-repo.git
@@ -41,7 +42,8 @@ Once the cloning is complete, navigate into the project directory:
 cd your-repo
 ```
 ### 2. Install Dependencies
-The project uses npm (Node Package Manager) to manage its dependencies. Before running the app, you must install all the required libraries and packages.
+The project uses npm (Node Package Manager) to manage its dependencies.
+Before running the app, you must install all the required libraries and packages.
 In the project folder, run the following command to install the dependencies:
 
 ```bash
@@ -49,26 +51,21 @@ npm install
 ```
 This will look at the package.json file in the project directory and download all the necessary packages for the app to work.
 
-### 3. Set Up Environment Variables (Optional)
-If your project requires specific environment variables (like API keys, or URLs), you should add them to a .env file in the root of the project. For example:
-
-arduino
-Skopiuj kod
-REACT_APP_API_URL=https://your-api-url.com
-This step may not be necessary for the Bookmark Manager App if there are no external dependencies, but if you plan to extend the app, you can add environment variables here.
-
-### 4. Run the Application
+### 3. Run the Application
 Now that the dependencies are installed, you can start the development server by running:
 
-bash
-Skopiuj kod
+```bash
 npm start
-This will launch the app in development mode. By default, it should open your browser and display the app at http://localhost:3000. If the browser does not open automatically, you can manually visit the link in your browser.
+```
+This will launch the app in development mode.
+By default, it should open your browser and display the app at http://localhost:3000.
+If the browser does not open automatically, you can manually visit the link in your browser.
 
-### 5. View the Application
-Once the app is running, you should see the Bookmark Manager App in your browser. You can now use the app to add, edit, or delete bookmarks locally.
+### 4. View the Application
+Once the app is running, you should see the Bookmark Manager App in your browser.
+You can now use the app to add, edit, or delete bookmarks locally.
 
-### 6. Troubleshooting
+### 5. Troubleshooting
 If you encounter any issues, here are a few common troubleshooting steps:
 
 Issue: "Command not found" when running npm install or npm start.
@@ -80,7 +77,7 @@ Solution: Try restarting the development server by stopping it (press Ctrl + C i
 Issue: Missing environment variables.
 
 Solution: If the app relies on environment variables (e.g., API keys), make sure you have created the .env file in the root directory and added the necessary keys.
-### 7. Building the App for Production (Optional)
+### 6. Building the App for Production (Optional)
 If you want to deploy your app or run it in production mode locally, you can create an optimized build by running:
 
 bash
@@ -92,25 +89,27 @@ This will create a build/ folder containing a production-ready version of your a
 Once you have followed these steps, you should be able to run and interact with the Bookmark Manager App locally on your machine! 😄
 
 # License 📄
-This project is licensed under the MIT License.
+This project is licensed under an **All Rights Reserved** license.
+
+The contents of this project (including code, documentation, and other materials) are protected by copyright.
+No part of this project may be copied, modified, distributed, or used in any form without explicit written permission from the copyright holder.
 
 # Acknowledgments 🙏
 Thank you for exploring my project! This app is part of my portfolio and showcases my skills in React, TypeScript, and frontend development.
-
 If you have any questions, feedback, or suggestions, feel free to reach out.
 
 # Contact 📬
 ```
-Email: example@example.com
-GitHub: @your-username
-LinkedIn: Your LinkedIn
+Email: cyprkwiat@gmail.com
 ```
 # About this Project 🖥️
-The Bookmark Manager App was created to help users organize their online bookmarks. Whether you're managing links for work, study, or personal projects, this app provides an efficient way to keep all your favorite websites in one place. It’s built using modern web technologies, ensuring that it’s both fast and scalable.
+The Bookmark Manager App was created to help users organize their online bookmarks.
+Whether you're managing links for work, study, or personal projects, this app provides an efficient way to keep all your favorite websites in one place.
+It’s built using modern web technologies, ensuring that it’s both fast and scalable.
 
 # Future Improvements 🚀
 ```
-Add the ability to categorize bookmarks.
-Implement a search feature to quickly find a bookmark.
-Add drag-and-drop functionality for organizing bookmarks.
+- Add the ability to categorize bookmarks.
+- Implement a search feature to quickly find a bookmark.
+- Add drag-and-drop functionality for organizing bookmarks.
 ```
