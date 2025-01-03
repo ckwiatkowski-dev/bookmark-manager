@@ -1,9 +1,5 @@
 # Bookmark Manager App 📚✨
 
-## Demo 🚀
-
-Check out the live demo of the app: [Click here to view the app on Glitch!](https://glitch.com/~bookmark-manager-demo)
-
 ## Project Description 📝
 
 The **Bookmark Manager App** is a simple web application that allows users to manage their bookmarks efficiently. With this app, users can add, edit, and remove their favorite links. The application is designed with user-friendly features and a clean, intuitive interface to make managing bookmarks easy and enjoyable.
@@ -112,3 +108,7 @@ It’s built using modern web technologies, ensuring that it’s both fast and s
 - Implement a search feature to quickly find a bookmark.
 - Add drag-and-drop functionality for organizing bookmarks.
 ```
+
+## Demo 🚀
+
+Check out the live demo of the app: [Click here to view the app on Glitch!](https://glitch.com/~bookmark-manager-demo)
